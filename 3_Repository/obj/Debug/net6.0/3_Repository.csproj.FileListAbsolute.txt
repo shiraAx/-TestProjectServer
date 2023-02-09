@@ -1,0 +1,84 @@
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+C:\Users\USER001\Desktop\TestProjectServer\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\bin\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\bin\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\bin\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+C:\Users\USER001\Desktop\gggoooooddd\‏‏‏‏TestProjectServer - ggggooood\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll

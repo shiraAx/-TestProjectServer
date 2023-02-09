@@ -1,0 +1,60 @@
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.exe
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.deps.json
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.runtimeconfig.json
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfo.cs
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\refint\1_UI.dll
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.genruntimeconfig.cache
+C:\Users\USER001\Desktop\TestProjectServer\TestProjectServer\obj\Debug\net6.0\ref\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\bin\Debug\net6.0\1_UI.exe
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\bin\Debug\net6.0\1_UI.deps.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\bin\Debug\net6.0\1_UI.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\bin\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\bin\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\refint\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\1_UI.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer - מחלף אבא\TestProjectServer\obj\Debug\net6.0\ref\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.exe
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.deps.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\bin\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\refint\1_UI.dll
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\1_UI.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏TestProjectServer\TestProjectServer\obj\Debug\net6.0\ref\1_UI.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\bin\Debug\net6.0\1_UI.exe
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\bin\Debug\net6.0\1_UI.deps.json
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\bin\Debug\net6.0\1_UI.runtimeconfig.json
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\bin\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\bin\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.AssemblyReference.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfoInputs.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.AssemblyInfo.cs
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.csproj.CoreCompileInputs.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\refint\1_UI.dll
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.pdb
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\1_UI.genruntimeconfig.cache
+C:\Users\USER001\Desktop\‏‏‏‏TestProjectServer - עותק\TestProjectServer\obj\Debug\net6.0\ref\1_UI.dll
