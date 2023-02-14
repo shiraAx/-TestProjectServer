@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CqcbBnL2nVivHuWTfUw5NgiOsj/uOf/sVnVCv9WcMDct5w6r5UXsam3EBouRdg6snoQg/qbmDQiNNBQLARAG3Q==",
+  "dgSpecHash": "wa1Xcwj5m72u4sv+NV/+nB16WskZuK1CP2PB5zJj+5aeIj0CwzA5HxF7sap/vntx4//pkzDghkGhO2jJ/4uXeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER001\\Desktop\\‏‏‏‏TestProjectServer\\VisitTrack\\VisitTrack.csproj",
+  "projectFilePath": "C:\\Users\\USER001\\Desktop\\פרויקט סופי\\‏‏‏‏TestProjectServer\\VisitTrack\\VisitTrack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER001\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER001\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
