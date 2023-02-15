@@ -37,12 +37,12 @@ namespace VisitTrack.Controllers
             return await _parentService.Add(value);
         }
 
-        //// PUT api/<ParentsController>/5
-        //[HttpPut("{id}")]
-        //public async Task<ParentModel> Put(int id, [FromBody] ParentModel value)
-        //{
-        //    return await _parentService.Update(value);
-        //}
+        // PUT api/<ParentsController>/5
+        [HttpPut("{id}")]
+        public async Task<ParentModel> Put(int id, [FromBody] ParentModel value)
+        {
+            return await _parentService.Update(value);
+        }
 
         // DELETE api/<ParentsController>/5
         [HttpDelete("{id}")]
